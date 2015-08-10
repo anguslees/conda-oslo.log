@@ -1,0 +1,4 @@
+package: oslo.log
+script:
+  - conda build .
+build_targets: conda
